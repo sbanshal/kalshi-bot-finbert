@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.envrc
+*.egg-info/
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
+
+# Data / outputs
+prices_*.csv
+headlines_*.json
+candles_raw_*.json
+trades_*.csv
+
+# HF / caches
+~/.cache/huggingface/
+cache/
+transformers_cache/
+torch_cache/
