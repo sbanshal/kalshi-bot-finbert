@@ -1,0 +1,31 @@
+{
+  "headlines": [
+    {
+      "text": "US inflation cools slightly as CPI rises 0.2% in November",
+      "sentiment": 0.8256122544407845,
+      "sentiment_probs": {
+        "pos": 0.8943360447883606,
+        "neg": 0.06872379034757614,
+        "neutral": 0.03694014251232147
+      }
+    },
+    {
+      "text": "Federal Reserve hints at slower rate hikes amid easing prices",
+      "sentiment": 0.3025745451450348,
+      "sentiment_probs": {
+        "pos": 0.6038457751274109,
+        "neg": 0.3012712299823761,
+        "neutral": 0.094883032143116
+      }
+    },
+    {
+      "text": "Analysts warn inflation still sticky despite moderation",
+      "sentiment": -0.4004155695438385,
+      "sentiment_probs": {
+        "pos": 0.2589751183986664,
+        "neg": 0.6593906879425049,
+        "neutral": 0.08163426071405411
+      }
+    }
+  ]
+}
