@@ -1,0 +1,17 @@
+{
+  "SP500_above_5000": {
+    "title": "S&P 500 above 5000",
+    "keywords": ["S&P 500", "stocks", "equity market", "SPX"],
+    "yes_implies_good_economy": true
+  },
+  "Inflation_above_3": {
+    "title": "CPI YoY > 3.0%",
+    "keywords": ["inflation", "CPI", "consumer prices"],
+    "yes_implies_good_economy": false
+  },
+  "Fed_rate_hike": {
+    "title": "Fed raises rates / rate hike",
+    "keywords": ["Fed", "interest rates", "FOMC", "Powell", "rate hike"],
+    "yes_implies_good_economy": false
+  }
+}

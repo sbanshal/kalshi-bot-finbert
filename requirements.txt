@@ -1,0 +1,10 @@
+numpy
+pandas
+requests
+feedparser
+python-dateutil
+transformers
+torch
+streamlit
+matplotlib
+pyyaml
