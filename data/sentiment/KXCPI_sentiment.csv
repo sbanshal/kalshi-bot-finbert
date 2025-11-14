@@ -1,2 +1,4 @@
-ts,iso_utc,price,n_headlines,sentiment,rolling_sentiment_3
-0,1970-01-01T00:00:00Z,,3,0.2425904100139936,0.2425904100139936
+headlines,ts,inferred_ts,inferred_from,ts,ts_price,price,iso_utc
+{'text': 'US inflation cools slightly as CPI rises 0.2% in November'},1762473600,True,price_file_midpoint:prices_KXCPI-25NOV-T0.3_20251101_20251113.csv,1762473600,0,,1970-01-01T00:00:00Z
+{'text': 'Federal Reserve hints at slower rate hikes amid easing prices'},1762473600,True,price_file_midpoint:prices_KXCPI-25NOV-T0.3_20251101_20251113.csv,1762473600,0,,1970-01-01T00:00:00Z
+{'text': 'Analysts warn inflation still sticky despite moderation'},1762473600,True,price_file_midpoint:prices_KXCPI-25NOV-T0.3_20251101_20251113.csv,1762473600,0,,1970-01-01T00:00:00Z
